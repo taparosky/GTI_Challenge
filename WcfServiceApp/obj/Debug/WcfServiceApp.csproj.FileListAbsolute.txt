@@ -1,0 +1,7 @@
+C:\Users\vtaparosky\Downloads\ModeloProjeto\WcfServiceApp\bin\WcfServiceApp.dll.config
+C:\Users\vtaparosky\Downloads\ModeloProjeto\WcfServiceApp\bin\WcfServiceApp.dll
+C:\Users\vtaparosky\Downloads\ModeloProjeto\WcfServiceApp\bin\WcfServiceApp.pdb
+C:\Users\vtaparosky\Downloads\ModeloProjeto\WcfServiceApp\obj\Debug\WcfServiceApp.csproj.AssemblyReference.cache
+C:\Users\vtaparosky\Downloads\ModeloProjeto\WcfServiceApp\obj\Debug\WcfServiceApp.csproj.CoreCompileInputs.cache
+C:\Users\vtaparosky\Downloads\ModeloProjeto\WcfServiceApp\obj\Debug\WcfServiceApp.dll
+C:\Users\vtaparosky\Downloads\ModeloProjeto\WcfServiceApp\obj\Debug\WcfServiceApp.pdb
